@@ -1,0 +1,1 @@
+idea中基本的springMVC框架搭建，springMVC中配置Mysql数据库连接
